@@ -1,0 +1,510 @@
+[{
+  "_id": {
+    "$oid": "66c562363dc97e3e5e6eb8cf"
+  },
+  "name": "Morning Velvet",
+  "description": "Morning Velvet combines light and medium roasts to create a silky-smooth coffee experience. With rich chocolate undertones and the nutty sweetness of hazelnut, this blend is inviting and comforting. The low acidity makes it an excellent choice for a morning cup, providing a gentle wake-up without overwhelming your palate.",
+  "altDescription": "A smooth blend of light and medium roasts with chocolate and hazelnut notes, perfect for waking up gently.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66c562363dc97e3e5e6eb8cf_1727021835732.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-08-21T03:42:46.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c73c6742984912ba8a63d4"
+  },
+  "name": "Spice Canyon",
+  "description": "Spice Canyon offers a warm embrace with its blend of medium-dark roast beans infused with cinnamon and nutmeg. The comforting spice notes create a cozy drinking experience, perfect for chilly evenings or holiday gatherings. Enjoy this blend with a splash of cream for an indulgent treat.",
+  "altDescription": "A warm, aromatic mix of medium-dark roast with cinnamon and nutmeg, great for cozy evenings.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66c73c6742984912ba8a63d4_1727021900865.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-08-22T13:25:59.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5745981073f61c3377bcd"
+  },
+  "name": "Tropical Eclipse",
+  "description": "Tropical Eclipse combines medium roast beans with a medley of tropical fruit flavors, such as mango and pineapple, and is complemented by a robust dark roast that adds an earthy richness. The vibrant fruity notes are balanced by a smooth finish, making it an excellent choice for a mid-morning treat or a post-lunch refreshment.",
+  "altDescription": "A bold fusion of tropical fruits and deep earthiness, great for an exotic coffee experience.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66c5745981073f61c3377bcd_1727021883742.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-08-21T05:00:09.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e16db4198dff3f0050ee"
+  },
+  "name": "Nutty Sunrise",
+  "description": "Nutty Sunrise features a bright light roast that showcases the flavors of roasted almonds and refreshing citrus. This uplifting blend is ideal for starting your day on a positive note, providing a lively and energizing cup. Enjoy it alongside your favorite breakfast or as a mid-morning pick-me-up.",
+  "altDescription": "A light roast with roasted almond and citrus notes, perfect for an uplifting morning brew.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e16db4198dff3f0050ee_1727022003025.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:26:21.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e1fcb4198dff3f00513e"
+  },
+  "name": "Honey Ember",
+  "description": "Honey Ember combines medium roast beans infused with sweet honey flavors and a subtle smoky finish. The warm and inviting profile makes it a perfect choice for cozy evenings by the fireplace, or paired with a sweet dessert after dinner.",
+  "altDescription": "A warm medium roast with honey sweetness and smoky undertones, great for chilly evenings.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e1fcb4198dff3f00513e_1727022004373.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:28:44.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e2f81b26ac18081a849c"
+  },
+  "name": "Caramel Eclipse",
+  "description": "Caramel Eclipse features a delicious combination of medium roast coffee with sweet caramel flavors and an underlying dark roast intensity. This delightful blend is perfect for an afternoon break or as a post-lunch pick-me-up, offering a satisfying balance of sweetness and richness.",
+  "altDescription": "A rich medium roast with caramel sweetness and dark roast intensity, perfect for an afternoon treat.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e2f81b26ac18081a849c_1727350553123.jpeg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:32:56.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7f6dc237343f9988fada1"
+  },
+  "name": "Maple Velvet",
+  "description": "Maple Velvet combines medium roast beans with the sweet, warm flavors of maple syrup and roasted nuts. The rich and smooth profile makes it an excellent choice for breakfast or brunch, offering a delightful complement to pancakes, waffles, or pastries.",
+  "altDescription": "A smooth medium roast with maple syrup sweetness and nutty undertones, perfect for breakfast.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7f6dc237343f9988fada1_1727356141457.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T05:57:48.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7fa0a0a1c89b9fdaf093b"
+  },
+  "name": "Cocoa Wave",
+  "description": "Cocoa Wave is a luscious blend of medium roast coffee that highlights rich chocolate flavors with a hint of fruitiness. The smooth texture and indulgent taste make it perfect for savoring during quiet moments or as a special treat with dessert.",
+  "altDescription": "A velvety medium roast with deep chocolate and subtle fruity notes, great for indulgent moments.",
+  "price": 39,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7fa0a0a1c89b9fdaf093b_1727356302433.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T06:11:22.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7fa1b0a1c89b9fdaf09a8"
+  },
+  "name": "Golden Harvest",
+  "description": "Golden Harvest features a balanced medium roast that combines sweet honey flavors with roasted almonds. The inviting aroma and comforting taste make it perfect for sipping on chilly mornings or during quiet afternoons with a good book.",
+  "altDescription": "A warm medium roast with honeyed sweetness and nutty flavors, ideal for a comforting experience.",
+  "price": 39,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7fa1b0a1c89b9fdaf09a8_1727356540953.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T06:11:39.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7c412c8910aca7bdbce4c"
+  },
+  "name": "Golden Maple",
+  "description": "Golden Maple combines medium roast beans with the warm, sweet flavors of maple syrup and roasted almonds. The inviting aroma and rich, smooth taste make it an ideal choice for breakfast or brunch. Savor it with pancakes or waffles for a delightful morning experience.",
+  "altDescription": "A sweet blend of medium roast coffee with maple syrup and nutty notes, perfect for breakfast.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7c412c8910aca7bdbce4c_1727021923569.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T02:21:06.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7d356ba46e4b5c3c0cfef"
+  },
+  "name": "Cocoa Citrus Spark",
+  "description": "Cocoa Citrus Spark is a delightful fusion of light roast beans showcasing zesty citrus flavors, such as orange and lemon, blended with rich cocoa notes. This dynamic combination creates a refreshing and uplifting drinking experience, ideal for a morning boost or an afternoon treat.",
+  "altDescription": "A lively blend of light roast coffee with citrus and cocoa notes, perfect for brightening your day.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7d356ba46e4b5c3c0cfef_1727021926656.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T03:26:14.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7d374ba46e4b5c3c0d032"
+  },
+  "name": "Amber Spice",
+  "description": "Amber Spice brings together a smooth medium roast with hints of honey sweetness and a gentle touch of cinnamon. The well-rounded flavor profile makes it perfect for sipping during cozy afternoons or as a delightful accompaniment to baked goods. Enjoy it with a slice of pie or cake for a comforting treat.",
+  "altDescription": "A balanced medium roast with honeyed sweetness and subtle cinnamon warmth, great for cozy afternoons.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7d374ba46e4b5c3c0d032_1727021997293.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T03:26:44.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e5d96567befc4bc89d8f"
+  },
+  "name": "Dark Mountain",
+  "description": "Dark Mountain is a powerful dark roast coffee that offers deep earthy flavors combined with rich chocolate notes. The full-bodied nature makes it a favorite for those who enjoy a strong and intense cup. Ideal for a morning boost or an afternoon reset, this blend is sure to satisfy serious coffee enthusiasts.",
+  "altDescription": "A bold dark roast with rich earthy and chocolate flavors, great for strong coffee lovers.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e5d96567befc4bc89d8f_1727350581355.jpeg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:45:13.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7fc0487393d6c9bd77152"
+  },
+  "name": "Chocolate Berry Burst",
+  "description": "Chocolate Berry Burst features a luxurious blend of medium-dark roast coffee that showcases rich chocolate notes complemented by vibrant berry flavors. This indulgent coffee is perfect for enjoying after dinner or as a sweet afternoon treat, providing a delightful and satisfying experience.",
+  "altDescription": "A decadent medium-dark roast with rich chocolate and sweet berry flavors, perfect for a dessert coffee.",
+  "price": 39,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7fc0487393d6c9bd77152_1727356554094.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T06:19:48.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5745581073f61c3377bca"
+  },
+  "name": "Citrus Ember",
+  "description": "Citrus Ember marries the bright flavors of light roast coffee with the deep, smoky notes of dark roast. The zesty citrus accents wake up your senses, while the underlying smokiness adds depth and intrigue. This blend is perfect for those who enjoy a bold and adventurous cup in the morning or as an afternoon pick-me-up.",
+  "altDescription": "A vibrant blend of light roast citrus and dark roast smokiness, ideal for adventurous mornings.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66c5745581073f61c3377bca_1727021856966.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-08-21T05:00:05.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5745c81073f61c3377bd0"
+  },
+  "name": "Caramel Breeze",
+  "description": "Caramel Breeze features a delightful combination of light-medium roast beans, showcasing sweet caramel and toffee flavors. The gentle sweetness and mild acidity create a smooth and approachable cup, making it a versatile choice for breakfast or an afternoon snack. Enjoy it hot or iced for a delightful experience.",
+  "altDescription": "A sweet blend of light-medium roast coffee with caramel and toffee notes, perfect for any time of day.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66c5745c81073f61c3377bd0_1727021895101.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-08-21T05:00:12.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7ca38c629c8e7345ea70a"
+  },
+  "name": "Hazelnut Dusk",
+  "description": "Hazelnut Dusk features a luxurious dark roast coffee infused with the rich flavors of roasted hazelnuts and deep chocolate. The nutty sweetness balances the robust coffee base, making it a comforting choice for evening relaxation. Pair it with dessert for a delightful after-dinner treat.",
+  "altDescription": "A rich dark roast infused with roasted hazelnut and chocolate flavors, great for evening enjoyment.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7ca38c629c8e7345ea70a_1727021923622.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T02:47:20.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7d6be0cb26f6c630a9f60"
+  },
+  "name": "Cinnamon Drift",
+  "description": "Cinnamon Drift combines medium roast beans infused with the warm spice of cinnamon and a smooth, nutty finish. This comforting coffee is perfect for chilly mornings, offering a cozy experience that pairs well with a slice of toast or oatmeal. Savor it as you warm up on a crisp day.",
+  "altDescription": "A cozy medium roast with the warmth of cinnamon and nutty finish, perfect for chilly mornings.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7d6be0cb26f6c630a9f60_1727021999354.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T03:40:46.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7dcdcf48190f1994e3543"
+  },
+  "name": "Berry Sunset",
+  "description": "Berry Sunset combines light-medium roast beans that highlight the sweetness of berries, such as strawberries and blueberries, with rich caramel undertones. This delightful coffee is perfect for brunch gatherings or sunny afternoons, offering a refreshing and sweet experience that pairs beautifully with fruit tarts.",
+  "altDescription": "A bright blend of light-medium roast coffee with berry flavors and caramel undertones, great for brunch.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7dcdcf48190f1994e3543_1727022002651.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:06:52.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e5ba6567befc4bc89d2a"
+  },
+  "name": "Coconut Cream",
+  "description": "Coconut Cream is a delightful blend of medium roast coffee infused with sweet coconut and creamy vanilla notes. This tropical treat transports you to a sunny paradise, making it perfect for a refreshing afternoon break or as a delightful iced coffee during warm weather.",
+  "altDescription": "A tropical medium roast with coconut and vanilla notes, ideal for a sunny getaway.",
+  "price": 69,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e5ba6567befc4bc89d2a_1727350568659.jpeg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:44:42.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7f630237343f9988fad37"
+  },
+  "name": "Tropical Storm",
+  "description": "Tropical Storm features a dynamic combination of medium roast coffee with bold tropical fruit notes, such as passionfruit and mango, combined with deep earthy undertones. This adventurous blend is ideal for a mid-afternoon escape or when you want to explore new flavors.",
+  "altDescription": "A bold blend of medium roast coffee with tropical fruit and earthy flavors, great for exploration.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7f630237343f9988fad37_1727356099883.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T05:54:56.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7b3cd77189bb5d89b2994"
+  },
+  "name": "Berry Cascade",
+  "description": "Berry Cascade is a vibrant mix of light roast beans that highlight the bright flavors of berries like raspberry and blueberry, complemented by subtle chocolate notes. The refreshing acidity and sweet finish make it perfect for an afternoon refreshment or a brunch gathering. Enjoy it hot or cold for a delightful treat.",
+  "altDescription": "A juicy blend of light roast coffee with berry flavors and chocolate undertones, ideal for a bright afternoon.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7b3cd77189bb5d89b2994_1727021918968.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T01:11:41.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7c3e7c8910aca7bdbce10"
+  },
+  "name": "Midnight Thunder",
+  "description": "Midnight Thunder is a powerful dark roast that delivers a rich and intense flavor profile. With bold dark chocolate notes and a smoky finish, this coffee is perfect for those who appreciate strong, full-bodied brews. Ideal for a late-morning espresso or an evening pick-me-up, it's a robust choice for serious coffee aficionados.",
+  "altDescription": "A bold dark roast with intense dark chocolate and smoky undertones, perfect for espresso lovers.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7c3e7c8910aca7bdbce10_1727021921819.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T02:20:23.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7d394ba46e4b5c3c0d075"
+  },
+  "name": "Mocha Breeze",
+  "description": "Mocha Breeze features a harmonious blend of light-medium roast coffee that highlights the sweetness of chocolate alongside subtle fruity flavors. The result is a refreshing and delicious cup, perfect for starting your day or enjoying during a sunny afternoon. It pairs beautifully with pastries or breakfast sandwiches.",
+  "altDescription": "A light-medium roast with chocolate and fruity notes, ideal for a refreshing morning coffee.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7d394ba46e4b5c3c0d075_1727021999025.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T03:27:16.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7dab9cda236e2a334fb86"
+  },
+  "name": "Tropical Midnight",
+  "description": "Tropical Midnight features a vibrant blend of medium roast coffee with bold tropical fruit notes, such as pineapple and passionfruit, paired with a rich earthy base. This unique combination offers an adventurous tasting experience, making it an excellent choice for a mid-afternoon escape or a weekend treat.",
+  "altDescription": "An exotic medium roast with tropical fruit flavors and a deep earthy base, great for adventurous palates.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7dab9cda236e2a334fb86_1727022000381.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T03:57:45.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7dca8f48190f1994e34e3"
+  },
+  "name": "Velvet Mocha",
+  "description": "Velvet Mocha is a luxurious blend of medium-dark roast coffee, featuring rich mocha flavors complemented by the warmth of hazelnut. The silky texture and deep sweetness make it a delightful indulgence, perfect for enjoying with dessert or as a cozy evening treat.",
+  "altDescription": "A smooth medium-dark roast with rich mocha and hazelnut flavors, ideal for indulgent moments.",
+  "price": 79,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7dca8f48190f1994e34e3_1727022002917.png",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:06:00.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e6c5237343f9988fac66"
+  },
+  "name": "Vanilla Swirl",
+  "description": "Vanilla Swirl features a delightful combination of light-medium roast coffee infused with sweet vanilla and subtle nutty flavors. The creamy texture and smooth finish make it a perfect accompaniment to dessert or a sweet afternoon treat, offering a comforting experience for any time of day.",
+  "altDescription": "A smooth light-medium roast with sweet vanilla and nutty hints, perfect for dessert.",
+  "price": 69,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e6c5237343f9988fac66_1727351197356.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T04:49:09.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7e734237343f9988facce"
+  },
+  "name": "Citrus Spice",
+  "description": "Citrus Spice is a vibrant blend of light roast coffee that showcases bright citrus flavors, such as lemon and orange, paired with warm spice notes of cinnamon and nutmeg. This refreshing coffee is perfect for inspiring mornings or as a lively afternoon pick-me-up.",
+  "altDescription": "A zesty light roast with bright citrus and warm spice notes, ideal for morning inspiration.",
+  "price": 59,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7e734237343f9988facce_1727351212536.png",
+  "isActive": false,
+  "createdOn": {
+    "$date": "2024-09-04T04:51:00.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7f6f4237343f9988fae0c"
+  },
+  "name": "Smoky Nut",
+  "description": "Smoky Nut features a rich blend of medium-dark roast coffee, showcasing roasted nut flavors complemented by a bold smoky finish. This complex and satisfying coffee is perfect for evening relaxation or as a companion to a rich dessert.",
+  "altDescription": "A complex medium-dark roast with roasted nut flavors and a bold smoky finish, perfect for evening enjoyment.",
+  "price": 39,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7f6f4237343f9988fae0c_1727356200764.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T05:58:12.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7fa830a1c89b9fdaf0a16"
+  },
+  "name": "Bold Citrus",
+  "description": "Bold Citrus combines dark roast coffee with lively citrus accents, creating a unique and stimulating flavor profile. The robust body and zesty notes make it ideal for a morning wake-up call or a refreshing afternoon boost.",
+  "altDescription": "A dynamic dark roast with sharp citrus highlights and a rich base, perfect for a stimulating cup.",
+  "price": 39,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66d7fa830a1c89b9fdaf0a16_1727356525163.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-04T06:13:23.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f39eb8436dc61211cbaadd"
+  },
+  "name": " Arabica Beans",
+  "description": "Arabica beans are known for their sweet, mild flavor with hints of fruit and sugar, often offering a delicate balance of acidity and smoothness. It's the most popular type of coffee worldwide, accounting for about 60-70% of global production.",
+  "altDescription": "Flavor: Sweet, fruity, and acidic with a smooth finish. Region: Commonly grown in Latin America, particularly in Brazil and Colombia.",
+  "price": 89,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66f39eb8436dc61211cbaadd_1727258505688.webp",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-25T05:25:12.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f39f32436dc61211cbaaf4"
+  },
+  "name": "Robusta Beans",
+  "description": "Robusta beans have a stronger, more bitter flavor compared to Arabica, with a pronounced earthy taste and higher caffeine content. This variety is often used in espresso blends and instant coffee due to its bold flavor and creamy consistency.",
+  "altDescription": "Flavor: Strong, bitter, and earthy with a high caffeine content. Region: Mainly cultivated in Africa and Southeast Asia, especially Vietnam.",
+  "price": 49,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66f39f32436dc61211cbaaf4_1727258519646.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-25T05:27:14.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f3b6c5436dc61211cbac9f"
+  },
+  "name": "Ethiopian Yirgacheffe",
+  "description": "Yirgacheffe is famous for its complex, fruity, and floral notes, with hints of berries and wine-like acidity. It is highly prized among specialty coffee drinkers for its unique flavor profile, which reflects its high-altitude growing conditions in Ethiopia.",
+  "altDescription": "Flavor: Floral, fruity, with notes of berries and wine. Region: Grown in the Yirgacheffe region of Ethiopia, known for its bright and complex flavor profile.",
+  "price": 159,
+  "imageLink": "https://cdn11.bigcommerce.com/s-nbc124/product_images/uploaded_images/ethiopian-yirgacheffe-coffee-pumphreys-.jpg",
+  "isActive": true,
+  "createdOn": {
+    "$date": "2024-09-25T07:07:49.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67163e74c32c707532743a8c"
+  },
+  "name": "New",
+  "description": "new",
+  "altDescription": "new",
+  "price": 90000,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/67163e74c32c707532743a8c_1729511053956.jpg",
+  "isActive": false,
+  "createdOn": {
+    "$date": "2024-10-21T11:43:48.971Z"
+  },
+  "__v": 0
+}]

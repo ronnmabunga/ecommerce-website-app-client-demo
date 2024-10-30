@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "66c524c9b7949cf67b1fea7c"
+  },
+  "firstName": "Admin 2",
+  "lastName": "User",
+  "email": "admin@email.com",
+  "password": "$2b$10$10hsf.Fo2rCSFmEo32zOJulQfmRkd1X88fi7EOimesxii6pf4oVpW",
+  "isAdmin": true,
+  "mobileNo": "09123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec4b046c4fbac5fa5bf28f"
+  },
+  "firstName": "Admin",
+  "lastName": "User",
+  "email": "admin@mail.com",
+  "password": "$2b$10$G5iwsnEPTzbJhzjRKFT.quZyiZD0HacQY9LyhHYn7CU44zejzOZzS",
+  "isAdmin": true,
+  "mobileNo": "09123456789",
+  "__v": 0,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66ec4b046c4fbac5fa5bf28f_1727069049311.png"
+},
+{
+  "_id": {
+    "$oid": "66ec4b3a6c4fbac5fa5bf292"
+  },
+  "firstName": "Customer",
+  "lastName": "User",
+  "email": "customer@mail.com",
+  "password": "$2b$10$UbJq621KSYjuCAGCl7NgWO5TUkhHl3Uww4uedSdIzXs.MYlhfu2HO",
+  "isAdmin": false,
+  "mobileNo": "09123456789",
+  "__v": 0,
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66ec4b3a6c4fbac5fa5bf292_1727095612999.gif"
+},
+{
+  "_id": {
+    "$oid": "66ed0376c27626d84f1086c3"
+  },
+  "firstName": "RONN MICHAEL",
+  "lastName": "MABUNGA",
+  "email": "r@m.com",
+  "password": "$2b$10$k6C/S3k6rkrOH3kuIfVjouc1jy8dAa/oNQdzii4.K0qBxK5yhlkce",
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66ed0376c27626d84f1086c3_1727271039303.png",
+  "isAdmin": false,
+  "mobileNo": "09123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed5acdc27626d84f108a34"
+  },
+  "firstName": "Janmarie",
+  "lastName": "Rubia",
+  "email": "missjanmarier@gmail.com",
+  "password": "$2b$10$1oihdcm9/J.uryRGHCdA1eCx84RCtA4L6nbg2zgO8hGCKcUa6Iv6O",
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66ed5acdc27626d84f108a34_1727271203162.jpg",
+  "isAdmin": false,
+  "mobileNo": "09954305083",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0d20299a13b027450570"
+  },
+  "firstName": "Emily",
+  "lastName": "Thompson",
+  "email": "emily.thompson@gmail.com",
+  "password": "$2b$10$YIeEWWKxS4ub3SV8oC5LouSLsVhn2uB7m2bb7tfZNh/7JFQE8xBiK",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "21212345678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0d3a299a13b027450573"
+  },
+  "firstName": "Jacob",
+  "lastName": "Rivera",
+  "email": "jacob.rivera@yahoo.com",
+  "password": "$2b$10$sRvEgqKd4eNv66t.W1Y4XeF.S3cLs.uvQT617rJdZmeZl4CEhJjCa",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "31023456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0d9e299a13b027450576"
+  },
+  "firstName": "Sarah",
+  "lastName": "Martinez",
+  "email": "sarah.martinez@outlook.com",
+  "password": "$2b$10$psf66EBtv5.9UvlyXlwqyeUayj9stYaXGF80bdS6fQBv2XbbduAiO",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "71834567890",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0db5299a13b027450579"
+  },
+  "firstName": "Michael",
+  "lastName": "Johnson",
+  "email": "michael.johnson@hotmail.com",
+  "password": "$2b$10$kMueKCy5i/Mxc89CDyt7OeepZt/WuecM6pyqmx5iUAVfQn3OS6hoW",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "41545678901",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0dcf299a13b02745057c"
+  },
+  "firstName": "Olivia",
+  "lastName": "Walker",
+  "email": "olivia.walker@icloud.com",
+  "password": "$2b$10$L1dlGT6HQNl0yxw3PDnpHu1NKj62TR2JsQqwZWtvBdM79uWB.u6iC",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "64656789012",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0de4299a13b02745057f"
+  },
+  "firstName": "Ethan",
+  "lastName": "Patel",
+  "email": "ethan.patel@gmail.com",
+  "password": "$2b$10$gNxyrGGMuWIfPoMI9pVFIOCSt30NTzATLBR.xJmhdyCDc0GutYoxi",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "20267890122",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0df9299a13b027450582"
+  },
+  "firstName": "Sophia",
+  "lastName": "Brooks",
+  "email": "sophia.brooks@live.com",
+  "password": "$2b$10$FNneoIYv.PhknBaw0MxmmukMXsb1FXshjFuaUZdeTVpm.2YlWxp3.",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "30578901234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0e0f299a13b027450585"
+  },
+  "firstName": "Daniel",
+  "lastName": "Harris",
+  "email": "daniel.harris@outlook.com",
+  "password": "$2b$10$Pxe6cNpdXtFuWTXjQnu8UOaiukPSVHLfVVTABddAAsNbd1OYHC31S",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "40789012345",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0e29299a13b027450588"
+  },
+  "firstName": "Isabella",
+  "lastName": "Turner",
+  "email": "isabella.turner@gmail.com",
+  "password": "$2b$10$7O7G3l/M0Qkh0TPG9.ogLu2ZooH2muPFnHqqvz./70U5GFc9lE5.a",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "51290123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee0e3c299a13b02745058b"
+  },
+  "firstName": "Matthew",
+  "lastName": "Carter",
+  "email": "matthew.carter@yahoo.com",
+  "password": "$2b$10$WRZcbWS/ewjp7sb5dKt9nO73MuY112wV.4eOuS8RC/jeZEIhs62pC",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "70201234567",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f52062c32c7075327436f4"
+  },
+  "firstName": "RONN MICHAEL",
+  "lastName": "MABUNGA",
+  "email": "ronnmabunga@gmail.com",
+  "password": "$2b$10$1.pnbNvZWmkytDZJCFo0.e4MJXQOgxa7DzPvi0sdfAl3jjhabMG2e",
+  "imageLink": "https://ecommerceapi-b443-csp3-mabunga-rubia.s3.ap-southeast-1.amazonaws.com/66f52062c32c7075327436f4_1727341109901.gif",
+  "isAdmin": true,
+  "mobileNo": "09954618187",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f54fabc32c707532743842"
+  },
+  "firstName": "joseph vincent",
+  "lastName": "rubia",
+  "email": "josephrubia90@gmail.com",
+  "password": "$2b$10$h92H/9iw9x2Wheexpx8ineuHg5TP.lja2odvu/Fl8JzHbuwZgXgfm",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "09614857521",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f569d1c32c7075327438a9"
+  },
+  "firstName": "Gelo",
+  "lastName": "Amador",
+  "email": "amadorgelo@gmail.com",
+  "password": "$2b$10$kWD7zxCWn80QVyA7W7am0uZMAVOZnigj2b7mLZPF1t5I8I228imai",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "09392492832",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670731adc32c7075327439b6"
+  },
+  "firstName": "Customer 5",
+  "lastName": "Users",
+  "email": "customer5@mail.com",
+  "password": "$2b$10$L3PzB7NXUrpUxWXsgb.cNuZsj/GOL/OgqwRdu8jRWkf3NWF4rasPG",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "09123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67073441c32c7075327439ba"
+  },
+  "firstName": "Customer 6",
+  "lastName": "Users",
+  "email": "customer6@mail.com",
+  "password": "$2b$10$hCFrSmvB1IH8PVRBRYMjaeSJsr8uwyY3WCEoBZdR16KGKNh6rMMPO",
+  "imageLink": "",
+  "isAdmin": false,
+  "mobileNo": "09123456789",
+  "__v": 0
+}]

@@ -1,0 +1,62 @@
+.banner-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    position: relative;
+}
+
+.banner-container > h1 {
+    color: #fff;
+    font-size: 70px;
+    margin-top: -100px;
+}
+
+.banner-container > p {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 25px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.banner-btns {
+    margin-top: 32px;
+}
+
+.banner-btns .btn {
+    margin: 6px;
+}
+
+.fa-play-circle {
+    margin-left: 4px;
+}
+
+@media screen and (max-width: 960px) {
+    .banner-container > h1 {
+        font-size: 70px;
+        margin-top: -150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .banner-container > h1 {
+        font-size: 50px;
+        margin-top: -100px;
+    }
+
+    .banner-container > p {
+        font-size: 30px;
+    }
+
+    .btn-mobile {
+        display: block;
+        text-decoration: none;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}

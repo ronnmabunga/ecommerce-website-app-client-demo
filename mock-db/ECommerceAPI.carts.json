@@ -1,0 +1,206 @@
+[{
+  "_id": {
+    "$oid": "66ee59d74604fa9e1f03a626"
+  },
+  "userId": "66ee0d3a299a13b027450573",
+  "cartItems": [
+    {
+      "productId": "66d7e6c5237343f9988fac66",
+      "quantity": 4,
+      "subtotal": 276,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a627"
+      }
+    },
+    {
+      "productId": "66d7e734237343f9988facce",
+      "quantity": 1,
+      "subtotal": 59,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a628"
+      }
+    }
+  ],
+  "totalPrice": 335,
+  "orderedOn": "2024-11-28T23:59:59.999Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee59d74604fa9e1f03a628"
+  },
+  "userId": "66ee0df9299a13b027450582",
+  "cartItems": [
+    {
+      "productId": "66d7f6dc237343f9988fada1",
+      "quantity": 5,
+      "subtotal": 395,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a629"
+      }
+    }
+  ],
+  "totalPrice": 395,
+  "orderedOn": "2024-03-20T08:15:30.000Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee59d74604fa9e1f03a62a"
+  },
+  "userId": "66ee0e0f299a13b027450585",
+  "cartItems": [
+    {
+      "productId": "66d7f6f4237343f9988fae0c",
+      "quantity": 1,
+      "subtotal": 39,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a62b"
+      }
+    },
+    {
+      "productId": "66d7fa0a0a1c89b9fdaf093b",
+      "quantity": 2,
+      "subtotal": 78,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a62c"
+      }
+    }
+  ],
+  "totalPrice": 117,
+  "orderedOn": "2024-07-07T12:00:00.000Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee59d74604fa9e1f03a62e"
+  },
+  "userId": "66ee0e3c299a13b02745058b",
+  "cartItems": [
+    {
+      "productId": "66d7fa830a1c89b9fdaf0a16",
+      "quantity": 2,
+      "subtotal": 78,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a62f"
+      }
+    }
+  ],
+  "totalPrice": 78,
+  "orderedOn": "2024-09-12T00:00:00.000Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee59d74604fa9e1f03a62c"
+  },
+  "userId": "66ee0e29299a13b027450588",
+  "cartItems": [
+    {
+      "productId": "66d7fa1b0a1c89b9fdaf09a8",
+      "quantity": 3,
+      "subtotal": 117,
+      "_id": {
+        "$oid": "66ee59d74604fa9e1f03a62d"
+      }
+    }
+  ],
+  "totalPrice": 117,
+  "orderedOn": "2024-05-05T17:30:00.000Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f51c38c32c7075327436b6"
+  },
+  "userId": "66ed0376c27626d84f1086c3",
+  "cartItems": [
+    {
+      "productId": "66c5745981073f61c3377bcd",
+      "quantity": 4,
+      "subtotal": 236,
+      "_id": {
+        "$oid": "66f51c48c32c7075327436c1"
+      }
+    },
+    {
+      "productId": "66c5745581073f61c3377bca",
+      "quantity": 4,
+      "subtotal": 236,
+      "_id": {
+        "$oid": "66f51c3ec32c7075327436bc"
+      }
+    }
+  ],
+  "totalPrice": 472,
+  "orderedOn": {
+    "$date": "2024-09-26T08:32:56.993Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66f52a59c32c707532743752"
+  },
+  "userId": "66f52062c32c7075327436f4",
+  "cartItems": [
+    {
+      "productId": "66d7e16db4198dff3f0050ee",
+      "quantity": 2,
+      "subtotal": 158,
+      "_id": {
+        "$oid": "66f52f45c32c707532743790"
+      }
+    },
+    {
+      "productId": "66c5745581073f61c3377bca",
+      "quantity": 5,
+      "subtotal": 295,
+      "_id": {
+        "$oid": "66f52a59c32c707532743753"
+      }
+    }
+  ],
+  "totalPrice": 453,
+  "orderedOn": {
+    "$date": "2024-09-26T09:33:13.582Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67163f46c32c707532743b5e"
+  },
+  "userId": "66ec4b3a6c4fbac5fa5bf292",
+  "cartItems": [
+    {
+      "productId": "66d7e1fcb4198dff3f00513e",
+      "quantity": 2,
+      "subtotal": 158,
+      "_id": {
+        "$oid": "67163f55c32c707532743b6a"
+      }
+    },
+    {
+      "productId": "66c5745981073f61c3377bcd",
+      "quantity": 4,
+      "subtotal": 236,
+      "_id": {
+        "$oid": "67163f51c32c707532743b64"
+      }
+    },
+    {
+      "productId": "66d7e16db4198dff3f0050ee",
+      "quantity": 4,
+      "subtotal": 316,
+      "_id": {
+        "$oid": "67163f46c32c707532743b5f"
+      }
+    }
+  ],
+  "totalPrice": 710,
+  "orderedOn": {
+    "$date": "2024-10-21T11:47:18.642Z"
+  },
+  "__v": 2
+}]

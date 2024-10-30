@@ -1,0 +1,44 @@
+.footer {
+  background: linear-gradient( rgb(26, 23, 23) 0%, rgb(0, 0, 0) 100%); 
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  position: relative;
+  bottom: 0 !important;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-content p {
+  margin: 0;
+  padding: 5px 0;
+}
+
+.social-media {
+  list-style: none;
+  padding: 0;
+}
+
+.social-media li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.social-media a {
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+.social-media a:hover {
+  color: #f39c12;
+}
+
+.footer a {
+  color: white; 
+  text-decoration: none; 
+}
+
+.footer a:hover {
+  text-decoration: underline; 
+}
